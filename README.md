@@ -18,8 +18,6 @@ I build interfaces that work at scale, products people actually use, and tools t
 
 I'm Maxwell Chandler, a senior frontend and UX engineer focused on the overlap between product thinking, motion, and system design. The work I enjoy most lives where interaction design and engineering quality have to reinforce each other.
 
-Right now I'm a Senior Frontend Engineer at [Mastery Prep](https://www.masteryprep.com/), building an AI-infused learning management system and figuring out how coding agents become a real part of a production development workflow.
-
 Most of my client and product work lives in private repos, so this profile is intentionally curated. For case studies, visual direction, and a better sense of how I think about craft, start with [digitalmaxwell.com](https://digitalmaxwell.com).
 
 ## What I Build
